@@ -1,4 +1,4 @@
-# Telebot
+# Telebot (@Alisa_create_bot)
 :hibiscus: Небольшой, но полезный и интересный Telegram бот :hibiscus:
 __________
 # ***Функции данного бота***
